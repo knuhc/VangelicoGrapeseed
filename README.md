@@ -186,7 +186,7 @@
 </head>
 <body>
 <body style="background-color:White;">
-	<img src="BackGround1.png" alt="Company Logo!">
+	<img src="BackGround2.png" alt="Company Logo!">
   <h1>Gem Calculator</h1>
   
   
